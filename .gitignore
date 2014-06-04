@@ -1,2 +1,5 @@
 pkg/*
 bin/*
+out/*
+.idea
+*.iml
